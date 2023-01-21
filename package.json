@@ -1,0 +1,14 @@
+{
+  "name": "docker-puppeteer",
+  "version": "1.0.0",
+  "description": "Run Puppeteer in a Docker container.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "John Mills",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.3.0"
+  }
+}
